@@ -1,0 +1,12 @@
+{
+    "name": "edward/proxy-example",
+    "authors": [
+        {
+            "name": "Edward Prendergast",
+            "email": "edward@adaodesign.com"
+        }
+    ],
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    }
+}
